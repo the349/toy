@@ -1,4 +1,24 @@
 {
-    "name": "toy",
-    "version": "0.0.1"
+  "name": "toy",
+  "version": "0.0.1",
+  "description": "Some ML Neural Network",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the349/toy.git"
+  },
+  "keywords": [
+    "AI",
+    "ML",
+    "NeuralNetwork"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the349/toy/issues"
+  },
+  "homepage": "https://github.com/the349/toy#readme"
 }
